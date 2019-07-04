@@ -12,5 +12,16 @@
       "matches": ["*://*.netflix.com/*"],
       "js": ["spoilernt.js"]
     }
-  ]
+  ],
+  "options_ui": {
+    "page": "options.html"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "applications": {
+    "gecko": {
+      "id": "{2fa882ef-7c61-4fe2-aeb5-bb56d51ceb4d}"
+    }
+  }
 }
