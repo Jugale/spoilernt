@@ -1,7 +1,7 @@
-![icon](https://raw.githubusercontent.com/Jugale/spoilernt/master/icons/icon-96.png)
+![icon](https://raw.githubusercontent.com/Jugale/spoilernt/master/icons/icon-48.png)
 
 # Spoilern't
-A Firefox extesions that blurs out Netfix's description of what you are watching.
+A Firefox extension that blurs out Netfix's description of what you are watching.
 
 ## Motivation
 While watching Star Trek recently I became annoyed by the fact that when I pause Netflix to allow buffering a description appears and semi-spoils the episode.
@@ -9,7 +9,7 @@ While watching Star Trek recently I became annoyed by the fact that when I pause
 ## Usage
 
 ### Firefox
-Install the Add-on [here](pendingapproval://) (pending approval)
+Install the Add-on here: [https://addons.mozilla.org/en-US/firefox/addon/spoilernt/](https://addons.mozilla.org/en-US/firefox/addon/spoilernt/)
 
 ### Other Browsers
 Please use open source web browsers - try [Firefox](https://www.mozilla.org/en-US/firefox/new/)!
