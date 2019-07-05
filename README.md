@@ -6,8 +6,16 @@ A Firefox extesions that blurs out Netfix's description of what you are watching
 ## Motivation
 While watching Star Trek recently I became annoyed by the fact that when I pause Netflix to allow buffering a description appears and semi-spoils the episode.
 
+## Usage
+
+### Firefox
+Install the Add-on [here](pendingapproval://) (pending approval)
+
+### Other Browsers
+Please use open source web browsers - try [Firefox](https://www.mozilla.org/en-US/firefox/new/)!
+
 ## State
-This is still very much a built-between-9pm-and-10pm-on-a-Wednesday thing. Things that need to be done include:
+This is still kind of a built-between-9pm-and-10pm-on-a-Wednesday thing. Things that need to be done include:
 
 - Make it more robust (how?)
 - Don't hide descriptions for movies (how?)
