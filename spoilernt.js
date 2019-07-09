@@ -5,7 +5,8 @@ const spoilerClasses = [
     // The spoiler when using the episode switcher during the show (there are two of these)
     // Also this class is again used on the main detail page of the show
     "synopsis",
-    "episodeSynopsis"
+    "episodeSynopsis",
+    "WatchNext-episode-synopsis"
 ];
 
 const hideFilterEffect = "brightness(1.75) blur(4px)";
