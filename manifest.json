@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Spoilern't",
-  "version": "1.1",
+  "version": "1.2",
   "description": "Hides descriptions on Netflix",
   "icons": {
     "48": "icons/icon-48.png",
